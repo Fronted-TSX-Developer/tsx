@@ -1,10 +1,10 @@
 {
   "name": "@saber2pr/tsx",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "> tsx renderer.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Saber2pr/tsx.git"
+    "url": "git+https://github.com/Fronted-TSX-Developer/tsx.git"
   },
   "author": "saber2pr",
   "license": "ISC",
